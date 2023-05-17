@@ -1,3 +1,4 @@
+local transparency = 1
 local Esp = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/DogSpy/213131313/main/fdsfs"))()
 -- Boxes --
 Esp.Box = true
